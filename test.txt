@@ -1,0 +1,1 @@
+Hi! this is text.txt file from git_demo respository
